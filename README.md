@@ -24,7 +24,7 @@
 - C#
 - JavaScript
 - HTML / CSS
-- Git / GitHub
+
 
 ---
 
