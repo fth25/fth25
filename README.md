@@ -23,11 +23,17 @@
 
 ### 🤖 Interests
 
-- robotics programming
-- desktop applications
-- web applications
-- automation scripts
-- useful tools
+<div align="center">
+
+| 🤖 Robotics | 🖥️ Desktop | 🌐 Web |
+|:---:|:---:|:---:|
+| **Programming** | **Applications** | **Applications** |
+
+| ⚙️ Automation | 🛠️ Useful |
+|:---:|:---:|
+| **Scripts** | **Tools** |
+
+</div>
 
 ---
 
