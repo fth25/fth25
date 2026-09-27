@@ -23,6 +23,7 @@
 - Python
 - C#
 - JavaScript
+- Lua
 - HTML / CSS
 
 
