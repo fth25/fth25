@@ -8,13 +8,32 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,cs,js,lua,html,css&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,visualstudio,linux&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" /> &nbsp; **C++**
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" /> &nbsp; **Java**
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" /> &nbsp; **Python**
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" /> &nbsp; **C#**
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" /> &nbsp; **JavaScript**
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="32" height="32" /> &nbsp; **Lua**
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" /> &nbsp; **HTML5**
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" /> &nbsp; **CSS3**
 
 </div>
 
