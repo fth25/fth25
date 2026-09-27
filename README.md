@@ -8,26 +8,30 @@
 
 ---
 
-### 🛠️ Languages
+### 🛠️ Diller
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" /> &nbsp; **C++**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" /> &nbsp; **Java**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" /> &nbsp; **Python**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" /> &nbsp; **C#**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" /> &nbsp; **JavaScript**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="28" /> &nbsp; **Lua**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" /> &nbsp; **HTML5**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" /> &nbsp; **CSS3**
+| | |
+|:---|:---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" /> &nbsp; **C++** | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> &nbsp; **Java** | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" /> &nbsp; **Python** | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" /> &nbsp; **C#** | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" /> &nbsp; **JavaScript** | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="24" /> &nbsp; **Lua** | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" /> &nbsp; **HTML5** | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" /> &nbsp; **CSS3** | |
 
 ---
 
-### 🤖 Interests
+### 🤖 İlgi Alanları
 
-🤖 &nbsp; Robotics Programming<br>
-🖥️ &nbsp; Desktop Applications<br>
-🌐 &nbsp; Web Applications<br>
-⚙️ &nbsp; Automation Scripts<br>
-🛠️ &nbsp; Useful Tools
+| | |
+|:---|:---|
+| 🤖 &nbsp; **Robotics Programming** | |
+| 🖥️ &nbsp; **Desktop Applications** | |
+| 🌐 &nbsp; **Web Applications** | |
+| ⚙️ &nbsp; **Automation Scripts** | |
+| 🛠️ &nbsp; **Useful Tools** | |
 
 ---
 
