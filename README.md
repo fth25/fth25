@@ -10,28 +10,28 @@
 
 ### 🛠️ Diller
 
-| | |
-|:---|:---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" /> &nbsp; **C++** | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> &nbsp; **Java** | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" /> &nbsp; **Python** | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" /> &nbsp; **C#** | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" /> &nbsp; **JavaScript** | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="24" /> &nbsp; **Lua** | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" /> &nbsp; **HTML5** | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" /> &nbsp; **CSS3** | |
+<table>
+  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" /></td><td>&nbsp;<b>C++</b></td></tr>
+  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /></td><td>&nbsp;<b>Java</b></td></tr>
+  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" /></td><td>&nbsp;<b>Python</b></td></tr>
+  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" /></td><td>&nbsp;<b>C#</b></td></tr>
+  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" /></td><td>&nbsp;<b>JavaScript</b></td></tr>
+  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="24" /></td><td>&nbsp;<b>Lua</b></td></tr>
+  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" /></td><td>&nbsp;<b>HTML5</b></td></tr>
+  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" /></td><td>&nbsp;<b>CSS3</b></td></tr>
+</table>
 
 ---
 
 ### 🤖 İlgi Alanları
 
-| | |
-|:---|:---|
-| 🤖 &nbsp; **Robotics Programming** | |
-| 🖥️ &nbsp; **Desktop Applications** | |
-| 🌐 &nbsp; **Web Applications** | |
-| ⚙️ &nbsp; **Automation Scripts** | |
-| 🛠️ &nbsp; **Useful Tools** | |
+<table>
+  <tr><td>🤖</td><td>&nbsp;<b>Robotik Programlama</b></td></tr>
+  <tr><td>🖥️</td><td>&nbsp;<b>Masaüstü Uygulamaları</b></td></tr>
+  <tr><td>🌐</td><td>&nbsp;<b>Web Uygulamaları</b></td></tr>
+  <tr><td>⚙️</td><td>&nbsp;<b>Otomasyon Komut Dosyaları</b></td></tr>
+  <tr><td>🛠️</td><td>&nbsp;<b>Faydalı Araçlar</b></td></tr>
+</table>
 
 ---
 
