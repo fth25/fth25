@@ -8,6 +8,18 @@
 
 ---
 
+### 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,cs,js,lua,html,css&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,visualstudio,linux&theme=dark" />
+
+</div>
+
+---
+
 ### 🤖 Interests
 
 - robotics programming
@@ -15,17 +27,6 @@
 - web applications
 - automation scripts
 - useful tools
-
-### 🛠️ Mostly using
-
-- C++
-- Java
-- Python
-- C#
-- JavaScript
-- Lua
-- HTML / CSS
-
 
 ---
 
