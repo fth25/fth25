@@ -31,4 +31,38 @@
 
 ---
 
+### 🚀 Projeler
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h4>🌤️ fthsky</h4>
+
+Vanilla JavaScript ile geliştirilmiş, Türkiye'deki il/ilçe/mahalle/köy araması yapabilen hava durumu uygulaması.
+
+- 🔍 Photon geocoding
+- ⏰ Saatlik + 7 günlük tahmin
+- 💬 Yerel AI asistanı
+- 📍 Konum desteği
+- 📱 PWA uyumlu
+
+**Stack:** JavaScript · HTML5 · CSS3 · Open-Meteo API
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fth25/fthsky)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://fthsky.netlify.app/)
+
+</td>
+<td width="50%" valign="top">
+
+<h4>🚧 Yakında</h4>
+
+Yeni projeler geliştiriliyor. Takip etmek için <a href="https://github.com/fth25?tab=followers">takip et</a>.
+
+</td>
+</tr>
+</table>
+
+---
+
 <img src="pacman.svg" alt="Pac-Man" width="100%" />
