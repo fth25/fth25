@@ -39,7 +39,7 @@
 
 <h4>🌤️ fthsky</h4>
 
-Vanilla JavaScript ile geliştirilmiş, Türkiye'deki il/ilçe/mahalle/köy araması yapabilen hava durumu uygulaması.
+Vanilla JavaScript ile geliştirilmiş,Yapay Zeka Destekli ve Türkiye'deki il/ilçe/mahalle/köy araması yapabilen hava durumu uygulaması.
 
 - 🔍 Photon geocoding
 - ⏰ Saatlik + 7 günlük tahmin
