@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://github.com/fth25">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Emin!;Merhaba%2C+ben+Emin!;C%2B%2B+%7C+Java+%7C+Python+Developer;Robotics+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Emin!;C%2B%2B+%7C+Java+%7C+Python+Developer;Robotics+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-### 🛠️ Diller
+### 🛠️ Languages & Technologies
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" /> &nbsp; **C++**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" /> &nbsp; **Java**
@@ -21,17 +21,17 @@
 
 ---
 
-### 🤖 İlgi Alanları
+### 🤖 Interests
 
-- 🤖 &nbsp; **Robotik Programlama**
-- 🖥️ &nbsp; **Masaüstü Uygulamaları**
-- 🌐 &nbsp; **Web Uygulamaları**
-- ⚙️ &nbsp; **Otomasyon Komut Dosyaları**
-- 🛠️ &nbsp; **Faydalı Araçlar**
+- 🤖 &nbsp; **Robotics Programming**
+- 🖥️ &nbsp; **Desktop Applications**
+- 🌐 &nbsp; **Web Applications**
+- ⚙️ &nbsp; **Automation Scripts**
+- 🛠️ &nbsp; **Utility Tools**
 
 ---
 
-### 🚀 Projeler
+### 🚀 Projects
 
 <table>
 <tr>
@@ -39,13 +39,13 @@
 
 <h4>🌤️ fthsky</h4>
 
-Vanilla JavaScript ile geliştirilmiş,Yapay Zeka Destekli ve Türkiye'deki il/ilçe/mahalle/köy araması yapabilen hava durumu uygulaması.
+An AI-powered weather application built with Vanilla JavaScript, capable of searching cities, districts, neighborhoods, and villages across Türkiye.
 
 - 🔍 Photon geocoding
-- ⏰ Saatlik + 7 günlük tahmin
-- 💬 Yerel AI asistanı
-- 📍 Konum desteği
-- 📱 PWA uyumlu
+- ⏰ Hourly + 7-day forecast
+- 💬 Local AI assistant
+- 📍 Location support
+- 📱 PWA compatible
 
 **Stack:** JavaScript · HTML5 · CSS3 · Open-Meteo API
 
@@ -55,9 +55,9 @@ Vanilla JavaScript ile geliştirilmiş,Yapay Zeka Destekli ve Türkiye'deki il/i
 </td>
 <td width="50%" valign="top">
 
-<h4>🚧 Yakında</h4>
+<h4>🚧 Coming Soon</h4>
 
-Yeni projeler geliştiriliyor. Takip etmek için <a href="https://github.com/fth25?tab=followers">takip et</a>.
+New projects are in development. <a href="https://github.com/fth25?tab=followers">Follow along</a> to stay updated.
 
 </td>
 </tr>
